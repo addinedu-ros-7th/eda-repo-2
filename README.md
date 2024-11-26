@@ -22,8 +22,10 @@
 ---
 
 
-## SW Stack
-
+## Team
+|김진재| test|
+|조나온| test|
+|이영훈| test|
 ---
 
 
