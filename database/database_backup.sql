@@ -1,6 +1,6 @@
 -- MySQL dump 10.13  Distrib 8.0.39, for Linux (x86_64)
 --
--- Host: eda-database.c3oek28e8yta.ap-northeast-2.rds.amazonaws.com    Database: workspace
+-- Host:     Database: workspace
 -- ------------------------------------------------------
 -- Server version	8.0.35
 
